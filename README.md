@@ -1,15 +1,13 @@
 
-# Hey there, I'm Louis 👋
 
-
-<br>
 <div align='center'>
+<h1>Hey there, I'm Louis 👋</h1> 
 
 <h2> I'm a passionate developer 🚀
     <br>
     Strong interest for web - web3 and open-source projects.
     <br>
-I love ❤️ learning and exploring new technologies!
+I ❤️ learning and exploring new technologies!
 </h2>
 <br><br>
    
@@ -28,12 +26,7 @@ I love ❤️ learning and exploring new technologies!
 ![Git](https://img.shields.io/badge/Git-Expert-orange?logo=git&logoColor=white&style=for-the-badge)
 ![GitHub](https://img.shields.io/badge/GitHub-Expert-lightgrey?logo=github&logoColor=white&style=for-the-badge)
 
-
-## Websites
-- [Portfolio](https://lpio.me/): Built with the [Axhat Stack](https://github.com/tm26a21p/axhat-stack-template)
-
-## Projects 
-> You can also contribute to my public projects.
-- [Projects](https://github.com/tm26a21p?tab=repositories)
-
  </div>
+
+## [Projects](https://github.com/tm26a21p?tab=repositories) 
+- [Portfolio](https://lpio.me/): Built with the [Axhat Stack](https://github.com/tm26a21p/axhat-stack-template)
